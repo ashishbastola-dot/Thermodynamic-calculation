@@ -207,7 +207,7 @@ state = state_5; solver.solve(state, conditions_5)
 aprops_5 = AqueousProps(state)
 
 # =============================================================================
-# Satuation index of the phases of interest
+# Saturation index of the phases of interest
 # =============================================================================
 
 csh=np.array([])
